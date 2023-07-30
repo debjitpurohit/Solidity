@@ -1,0 +1,75 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "num",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"inheritance.sol": "inheritance"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"diffbwencodepackedandencode.sol": {
+			"keccak256": "0x0c33685a05cc0f4a51e03e12c773190d098c1b778f490e2a4ee7be1a95118a2b",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://e0428b68a5552114097920580e6ee9b45827089929c9c8308b5856ae8a6a01f6",
+				"dweb:/ipfs/QmQR84SBZbyEmQVLibTEs1fhCvdeSvu2hFUGzcCVQ1qkGR"
+			]
+		},
+		"https://github.com/shuvishubham/web3-fundraiser-youtube/blob/main/contracts/Campaign.sol": {
+			"keccak256": "0x3fd703b63a9cd7ce5926e68021cf8e6f8a92593a11bbfadc178cfb6cdf2b1fe4",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://f75203cc695db143eec0ebe90a919d38ac7c3a32eb553e6904b9f72ee506c5ee",
+				"dweb:/ipfs/QmaSTtgQoJpcWeExU4MjvEiPESWGC71x8RqNgdTi1NbeDF"
+			]
+		},
+		"inheritance.sol": {
+			"keccak256": "0xa85c0fc0c5f0340f2b9308eb2fb3cd1ff5f7145dca1d787eafe87c830a2a4fb9",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://82751d02b1b5a69c8c943e7d0336c24f659b501415045460a6467531b0fe689f",
+				"dweb:/ipfs/QmayxZ8SR3Uz8fLXqoWy6oeeuUp4qNrEKur6vvjtMCg7gt"
+			]
+		}
+	},
+	"version": 1
+}

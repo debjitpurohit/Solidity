@@ -7,9 +7,15 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "send",
-				"outputs": [],
-				"stateMutability": "payable",
+				"name": "val",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
 				"type": "function"
 			}
 		],
@@ -26,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"units.sol": "units"
+			"virtual and override.sol": "inherit"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -40,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"units.sol": {
-			"keccak256": "0xd2966d6ea380aca249bdb4aa30d575b1483b1a1834dff5527ca883801a6a2519",
+		"virtual and override.sol": {
+			"keccak256": "0x42de3a12045bf289fb87ce5e6255508dc6fc79c03d0a273382ea0bfe4ac81848",
 			"license": "Unlicensed",
 			"urls": [
-				"bzz-raw://c51866b0e25d96b5544954005bd2a6def2ba43aa9fdcfb267305c272f26e70d1",
-				"dweb:/ipfs/QmZwyq75mcd7s1AyBfNgSky9UAMt3BmHyuugrL6EHArRgB"
+				"bzz-raw://1bdd4f107e0011709b9b42154fc2c3878aa3dace98d529a20270935f06d4c8c1",
+				"dweb:/ipfs/QmaJJXVxZFW6TfMVgBizKNWKKRkdhgWrp5c8k6tNoePD7V"
 			]
 		}
 	},

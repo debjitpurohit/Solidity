@@ -4,15 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "send",
-				"outputs": [],
-				"stateMutability": "payable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -26,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"units.sol": "units"
+			"funcvisibility.sol": "funcvisi"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -40,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"units.sol": {
-			"keccak256": "0xd2966d6ea380aca249bdb4aa30d575b1483b1a1834dff5527ca883801a6a2519",
+		"funcvisibility.sol": {
+			"keccak256": "0x1970432b935385616c95c18d9235900e5f3b1c73ccd2c82182005411a1406abd",
 			"license": "Unlicensed",
 			"urls": [
-				"bzz-raw://c51866b0e25d96b5544954005bd2a6def2ba43aa9fdcfb267305c272f26e70d1",
-				"dweb:/ipfs/QmZwyq75mcd7s1AyBfNgSky9UAMt3BmHyuugrL6EHArRgB"
+				"bzz-raw://18a8d8bf2cf1475055a8a10fcc42816b8bcab6908981d788232189e326e93527",
+				"dweb:/ipfs/QmZEi7MfXm8QJ1o6yHWtXa95fv3FCVQAx9hWzqWLp4opZY"
 			]
 		}
 	},

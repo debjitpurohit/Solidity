@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_pass",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"name": "genpass",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"diffbwencodepackedandencode.sol": "hashfunctions"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"diffbwencodepackedandencode.sol": {
+			"keccak256": "0x0c33685a05cc0f4a51e03e12c773190d098c1b778f490e2a4ee7be1a95118a2b",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://e0428b68a5552114097920580e6ee9b45827089929c9c8308b5856ae8a6a01f6",
+				"dweb:/ipfs/QmQR84SBZbyEmQVLibTEs1fhCvdeSvu2hFUGzcCVQ1qkGR"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"cryptographic function.sol": "hashfuncti"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"cryptographic function.sol": {
+			"keccak256": "0x78f2cee8f7d270b68efd550e4797d7923bd8695125772b4fd5bad9c90c557440",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://a119784ed5e5c8732d52045594386b2c607886b80d5a8c64f3e4f7a49045bf43",
+				"dweb:/ipfs/QmaKEJAQgmm9VFCtAaHwfi9Rn6YbMuM7RbQuz4BMvHHbiU"
+			]
+		}
+	},
+	"version": 1
+}

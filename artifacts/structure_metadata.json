@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "choice",
+				"outputs": [
+					{
+						"internalType": "enum structure.size",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setsmall",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"map.sol": "structure"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"map.sol": {
+			"keccak256": "0xda5ddfd41bf3d3c0b96e0da0f74a1c11ad3e0a10764be2aa266daadc55ed9a29",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://bfec7352cc65662c0cab5c45362baf5529d9449fb65522e014cf8466c204eec0",
+				"dweb:/ipfs/Qmbpgj9b75nSV2cHRAMd4oPYVcjZNAe6qEoSpLdBmBGLkU"
+			]
+		}
+	},
+	"version": 1
+}

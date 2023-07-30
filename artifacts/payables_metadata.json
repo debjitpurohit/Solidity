@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"units.sol": "payables"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"units.sol": {
+			"keccak256": "0xcdeeff76947a0d6c4df4b627d6a459a0b535162f9ea33699db122074cdbdf40a",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://ed0588d152e02738f88dc28fd526e4032f62f62f1ec3c3bf8623626623ac40d9",
+				"dweb:/ipfs/QmbCxs5TEMdeperv929kPz2iykH9KRPTcxJS1rudL8uZ34"
+			]
+		}
+	},
+	"version": 1
+}
